@@ -1,0 +1,15 @@
+{
+  "name": "minificador",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Raphael Corrêa <raphael.correa.b@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-pngquant": "^8.0.0"
+  }
+}
